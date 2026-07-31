@@ -31,14 +31,15 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
     <>
       <section className="relative flex min-h-[88svh] items-end overflow-hidden">
         <Image
-          src="/images/hero/diego-cooking.jpg"
+          src="/images/hero/diego-cooking.png"
           alt={t("hero.imageAlt")}
           fill
           priority
           sizes="100vw"
-          // The source is close to square and the hero is wide, so centring the
-          // crop cuts his face off on desktop. Hold the top third instead.
-          className="object-cover object-[50%_22%]"
+          // The source is 2:1 with Diego about 62% across. On phones the crop
+          // eats the width, so hold his side; on desktop it eats the height
+          // instead and centring horizontally is fine.
+          className="object-cover object-[62%_50%] md:object-[50%_38%]"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-sea-deep/85 via-sea-deep/35 to-sea-deep/45" />
 
@@ -158,6 +159,18 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <Link href="/kitchen" className="label mt-10 inline-flex items-center gap-2 text-coral-soft">
               {t("kitchenTeaser.cta")} →
             </Link>
+          </Reveal>
+        </Container>
+      </section>
+
+      <section className="bg-sand py-20 md:py-28">
+        <Container>
+          <Reveal className="max-w-2xl">
+            <h2 className="text-[2rem] md:text-5xl">{t("closing.heading")}</h2>
+            <p className="prose-body mt-6 text-ink/70">{t("closing.body")}</p>
+            <Button href="/contact" className="mt-9">
+              {tCommon("bookNow")}
+            </Button>
           </Reveal>
         </Container>
       </section>

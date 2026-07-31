@@ -47,7 +47,9 @@ curl -s -X POST https://surfandcook.vercel.app/api/inquiry \
 - **Contact details** — `src/lib/constants.ts`. WhatsApp, email and Instagram are
   invented. Set `verified: true` there to hide the notice on the contact page.
 - **Photography** — everything under `public/images` is cropped from AI-generated
-  mockups in `design/source`. Fine to launch with, worth replacing with real
+  mockups in `design/source`, apart from the hero
+  (`public/images/hero/diego-cooking.png`), which is supplied directly and is not
+  produced by the crop script. Fine to launch with, worth replacing with real
   photos of Diego and Lobitos.
 
 ## Images
@@ -55,3 +57,7 @@ curl -s -X POST https://surfandcook.vercel.app/api/inquiry \
 `node scripts/crop-source-images.mjs` regenerates the crops from
 `design/source`. Those source files stay outside `public/` on purpose: they carry
 baked-in headlines and a fabricated rating that must not be reachable publicly.
+
+The hero is not among them. It is dropped into `public/images/hero/` by hand, so
+the script leaves it alone and re-running the script will not restore or
+overwrite it.

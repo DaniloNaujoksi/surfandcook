@@ -35,15 +35,13 @@ const crops = [
   ["surfandcook003.jpeg", 472, 16, 440, 440, "experience/cooking-hands"],
   ["surfandcook003.jpeg", 932, 16, 440, 440, "experience/sunset-table"],
 
-  // 004 — 1402×1122, the hero photo. Cropped to the right of the headline and
-  // below the favourite icon, so neither lands in the frame.
-  ["surfandcook004.jpeg", 560, 132, 800, 748, "hero/diego-cooking"],
+  // 004 held the hero crop. The hero image is supplied directly now
+  // (public/images/hero/diego-cooking.png), so nothing is lifted from it.
 ];
 
 await mkdir(`${OUT}/surf`, { recursive: true });
 await mkdir(`${OUT}/dishes`, { recursive: true });
 await mkdir(`${OUT}/experience`, { recursive: true });
-await mkdir(`${OUT}/hero`, { recursive: true });
 
 for (const [source, left, top, width, height, name] of crops) {
   await sharp(`${SRC}/${source}`)
