@@ -45,3 +45,6 @@ next-env.d.ts
 
 # Browser automation scratch
 .playwright-cli/
+
+.vercel
+.env*
