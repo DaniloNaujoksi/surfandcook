@@ -26,7 +26,9 @@ export async function generateMetadata({
 
   return {
     title: { default: `Surf and Cook — ${t("title")}`, template: "%s — Surf and Cook" },
-    description: t("tagline"),
+    // Not the tagline: that one runs long enough for search results to cut it
+    // off mid-sentence. metaDescription is written to fit in ~155 characters.
+    description: t("metaDescription"),
   };
 }
 

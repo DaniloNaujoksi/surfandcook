@@ -1,9 +1,8 @@
 {
   "common": {
     "brand": "Surf and Cook",
-    "bookNow": "Termine und Preise anfragen",
+    "bookNow": "Platz anfragen",
     "seeCourses": "So läuft ein Tag",
-    "learnMore": "Mehr lesen",
     "location": "Lobitos · Piura · Peru"
   },
   "nav": {
@@ -19,99 +18,104 @@
   "home": {
     "hero": {
       "eyebrow": "Lobitos · Nordperu",
-      "title": "Deine erste Welle und dein erstes Ceviche. Am selben Tag.",
-      "tagline": "Zwei Stunden im Wasser mit Diego. Ein Nachmittag in der Küche mit dem, was die Boote gebracht haben. Abendessen im Sand, während die Sonne hinter der Landzunge verschwindet.",
-      "imageAlt": "Diego bereitet Ceviche am Strand zu, bei Sonnenuntergang"
+      "title": "Lerne Surfen und Kochen mit Diego am Strand",
+      "tagline": "Morgens surfen wir die ersten Wellen. Nachmittags kochen wir Ceviche aus dem Fang von heute. Abends sitzen wir am Strand, essen zusammen und trinken einen Pisco Sour zum Sonnenuntergang. Ein Tag mit Diego, den du nicht vergisst.",
+      "metaDescription": "Surfen lernen und peruanisch kochen an einem Tag, mit Diego in Lobitos, Nordperu. Kleine Gruppen, Ausrüstung inklusive, Abendessen am Strand.",
+      "imageAlt": "Diego schneidet Ceviche an einem Holztisch am Strand, dahinter Surfer im Abendlicht"
     },
     "intro": {
       "eyebrow": "Der Tag",
-      "heading": "Die meisten Surfreisen bringen dir eine Sache bei. Diese zwei.",
-      "body": "Eine Surfstunde bekommst du überall. Was du nirgends bekommst, ist der Gang zum Steg danach, das Aussuchen des Fischs, der über das Abendessen entscheidet, und jemand, der vom Kochen lebt und dir zeigt, wie man ihn richtig schneidet. Du fährst nach Hause und kannst eine Welle nehmen und ein Ceviche machen — und weißt, warum Peruaner über beides streiten."
+      "heading": "Surfen und kochen an einem Tag",
+      "body": "Eine Surfstunde bekommst du überall. Hier gehst du danach mit Diego zu den Booten, suchst den Fisch aus und kochst ihn selbst. Am Ende kannst du beides: eine Welle nehmen und ein Ceviche machen."
     },
     "steps": {
       "surf": {
         "title": "Surfen mit Diego",
-        "body": "Zwei Stunden im Wasser. Höchstens vier Leute, damit dir jede verpasste Welle auch erklärt wird. Board und Neopren stellen wir.",
+        "body": "Zwei Stunden im Wasser, höchstens vier Leute. So hat jeder genug Zeit. Board und Neopren sind dabei.",
         "imageAlt": "Surfstunde im flachen Wasser"
       },
       "cook": {
         "title": "Selbst kochen",
-        "body": "Limette, Ají limo, rote Zwiebel, Fisch, der heute Morgen noch geschwommen ist. Diego macht nichts vor, während du zuschaust — du hältst das Messer.",
+        "body": "Limette, Chili, rote Zwiebel und frischer Fisch. Diego zeigt dir jeden Schritt. Kochen tust du selbst.",
         "imageAlt": "Hände bereiten Ceviche auf einem Holztisch zu"
       },
       "eat": {
-        "title": "Essen, was du gemacht hast",
-        "body": "Eine lange Tafel, alles selbst gekocht, und das Licht wird orange über der Landzunge. Ein Pisco Sour, wenn du magst.",
+        "title": "Zusammen essen",
+        "body": "Eine lange Tafel am Strand, alles selbst gekocht. Dazu ein Pisco Sour und der Sonnenuntergang.",
         "imageAlt": "Gäste an einer langen Tafel bei Sonnenuntergang"
       }
     },
     "included": {
-      "heading": "Keine Überraschungen auf der Rechnung",
+      "heading": "Alles inklusive",
       "items": {
         "groups": {
-          "title": "Höchstens vier Leute",
-          "body": "Klein genug, dass Diego dich anschaut und nicht die Gruppe."
+          "title": "Kleine Gruppen",
+          "body": "Höchstens vier Leute pro Tag. So hat Diego Zeit für dich."
         },
         "gear": {
           "title": "Board und Neopren",
-          "body": "Inklusive. Der Humboldtstrom ist kälter, als der Breitengrad vermuten lässt — bring nichts mit."
+          "body": "Sind dabei. Das Wasser ist kühler als gedacht, aber du musst nichts mitbringen."
         },
         "photos": {
-          "title": "Deine Fotos, ohne Aufpreis",
-          "body": "Jemand fotografiert, während du surfst. Die Dateien bekommst du danach. Niemand versucht, sie dir zu verkaufen."
+          "title": "Fotos gratis",
+          "body": "Jemand fotografiert dich beim Surfen. Die Bilder bekommst du danach geschenkt."
         },
         "food": {
-          "title": "Zutaten und Abendessen",
-          "body": "Alles, was du kochst, und alles, was du trinkst, gehört zum Tag. Nichts davon kommt extra."
+          "title": "Essen und Zutaten",
+          "body": "Alles, was du kochst und trinkst, ist im Preis dabei."
         }
       }
     },
     "place": {
       "eyebrow": "Lobitos",
-      "heading": "Eine Linke über 300 Meter, in einem Ort, an dem die meisten vorbeifahren",
-      "body": "Lobitos liegt dort, wo die Sechura-Wüste auf den Pazifik trifft. Früher ein britischer Ölort — die Holzhäuser auf Stelzen stehen noch, ausgeblichen, schief, bewohnt. Dazwischen sind aus Schiffscontainern Küchen und Zimmer geworden. Es gibt keine Promenade, kein Resort und keine Schlange im Wasser: Sand, Wind, einer der beständigsten Point Breaks des Kontinents und Leute, die für eine Saison kamen und nie wieder weg sind.",
+      "heading": "300 Meter lange Wellen, kaum jemand im Wasser",
+      "body": "Lobitos liegt im Norden von Peru, dort wo die Wüste ans Meer trifft. Früher war es ein Ölort der Briten, die alten Holzhäuser stehen noch. Heute leben hier vor allem Surfer. Kein Resort, keine Promenade, keine Schlange im Wasser.",
       "cta": "Wo du schläfst"
     },
     "kitchenTeaser": {
       "eyebrow": "Die Küche",
-      "heading": "Hier kam nichts aus der Tiefkühltruhe",
-      "body": "Peruanische Küstenküche ist Fisch, Limette, Chili und das Wissen, wann man aufhört. Alle vier lernst du hier.",
+      "heading": "Alles frisch vom Boot",
+      "body": "Peruanisch kochen heißt: Fisch, Limette, Chili. Mehr braucht es nicht. Diego zeigt dir, wie es geht.",
       "cta": "Was wir kochen"
+    },
+    "closing": {
+      "heading": "Nur vier Plätze pro Tag",
+      "body": "Schreib uns, wann du kommen willst und mit wie vielen. Diego antwortet in ein bis zwei Tagen und sagt dir auch, ob noch ein Zimmer frei ist."
     }
   },
   "courses": {
     "hero": {
       "title": "Surfen",
-      "tagline": "Lobitos bricht links, lang und berechenbar. Ein gnädiger Ort zum Anfangen und ein schlechter, um wieder aufzuhören."
+      "tagline": "In Lobitos brechen die Wellen nach links, lang und gleichmäßig. Perfekt zum Lernen."
     },
     "levels": {
-      "heading": "Sag uns, wo du stehst — nicht, wo du gern stündest",
+      "heading": "Für jedes Level",
       "beginner": {
-        "title": "Noch nie gestanden",
-        "body": "Wir fangen innen an, wo die Welle schon gebrochen ist und Weißwasser im Überfluss da ist. Paddeln, Position, Aufstehen. Die meisten fahren am ersten Vormittag etwas. Fast alle spätestens am zweiten."
+        "title": "Anfänger",
+        "body": "Wir starten im flachen Wasser, wo die Welle schon gebrochen ist. Paddeln, Position, Aufstehen. Die meisten stehen am ersten Tag."
       },
       "intermediate": {
-        "title": "Du stehst, aber die Welle bestimmt",
-        "body": "Du kommst hoch und fährst dann dorthin, wohin der Schaum dich schiebt. Wir arbeiten daran, die Sektion zu lesen, schräg anzupaddeln und vor der Welle zu bleiben statt dahinter."
+        "title": "Du stehst schon",
+        "body": "Du kommst hoch, aber die Welle bestimmt, wohin es geht. Wir üben, die Welle zu lesen und richtig anzupaddeln."
       },
       "advanced": {
-        "title": "Du brauchst keinen Kurs",
-        "body": "Du brauchst jemanden, der weiß, welche Bank bei welcher Tide läuft und warum es gestern besser war. Diego surft mit dir und redet zwischen den Sets."
+        "title": "Du surfst sicher",
+        "body": "Dann brauchst du keinen Kurs, sondern jemanden, der die Spots kennt. Diego surft mit dir und gibt dir Tipps."
       }
     },
     "practical": {
-      "heading": "Was uns am häufigsten gefragt wird",
+      "heading": "Häufige Fragen",
       "season": {
         "title": "Wann soll ich kommen?",
-        "body": "Lobitos läuft in jedem Monat. April bis Oktober bringt die größeren, längeren Swells. Dezember bis März ist wärmer, kleiner und zum Lernen deutlich angenehmer."
+        "body": "Lobitos geht das ganze Jahr. Von April bis Oktober sind die Wellen größer. Von Dezember bis März ist es wärmer und einfacher zum Lernen."
       },
       "water": {
         "title": "Ist das Wasser kalt?",
-        "body": "Kälter, als die Landkarte vermuten lässt — der Humboldtstrom zieht von der Antarktis diese Küste hoch. Ein Shorty reicht meistens, im Winter ist ein langer Anzug besser. Beides ist dabei, du brauchst nichts mitzubringen."
+        "body": "Kühler als du denkst. Meist reicht ein kurzer Neopren, im Winter ein langer. Beides ist dabei."
       },
       "safety": {
-        "title": "Und wenn etwas passiert?",
-        "body": "Du bist zu keinem Zeitpunkt allein im Wasser. Kleine Gruppen, ein Briefing vor dem Reingehen, und die Spots werden nach dir ausgesucht, nicht nach dem Foto. Lobitos hat stellenweise Felsen und Strömung — dorthin gehen wir mit dir schlicht nicht."
+        "title": "Ist das sicher?",
+        "body": "Du bist nie allein im Wasser. Wir surfen in kleinen Gruppen, machen vorher eine kurze Einweisung und suchen den Spot nach deinem Level aus."
       }
     },
     "imageAlts": {
@@ -123,49 +127,49 @@
   "kitchen": {
     "hero": {
       "title": "Küche",
-      "tagline": "Die peruanische Küste isst rohen Fisch, in Limette gegart, mit Chili und Süßkartoffel. Alles andere ist eine Variation davon."
+      "tagline": "Roher Fisch in Limette, dazu Chili und Süßkartoffel. So isst man an der Küste von Peru."
     },
     "intro": {
-      "heading": "Es gibt keine Karte, weil es keinen festen Fang gibt",
-      "body": "Wir gehen runter zu den Booten, schauen, was reingekommen ist, und bauen den Nachmittag darum herum. Das ist keine Einschränkung — es ist der ganze Grund, warum es so schmeckt. Was folgt, taucht meistens auf. Ein Versprechen ist es nicht."
+      "heading": "Wir kochen, was die Boote bringen",
+      "body": "Wir gehen morgens zu den Booten und schauen, was es gibt. Danach planen wir den Nachmittag. Genau deshalb schmeckt es so frisch. Die Gerichte unten gibt es meistens, versprechen können wir sie nicht."
     },
     "dishes": {
-      "heading": "Was meistens auftaucht",
-      "ceviche": { "name": "Ceviche clásico", "note": "Fisch, Limette, rote Zwiebel, Ají limo, Süßkartoffel" },
-      "lomo": { "name": "Lomo saltado", "note": "Rind, Zwiebel, Tomate, Soja — Perus chinesisches Erbe" },
-      "tiradito": { "name": "Tiradito de ají amarillo", "note": "Dünn aufgeschnitten, gelbe Chilicreme, ohne Zwiebel" },
-      "causa": { "name": "Causa limeña", "note": "Kalter Kartoffelstock, geschichtet mit Limette, Chili, Avocado" },
-      "parrillada": { "name": "Parrillada de mariscos", "note": "Was der Grill hergibt, Knoblauch und Limette" },
-      "conchas": { "name": "Conchas a la parmesana", "note": "Jakobsmuscheln in der Schale, Butter, Käse, Grill" },
+      "heading": "Das kochen wir meistens",
+      "ceviche": { "name": "Ceviche clásico", "note": "Fisch, Limette, rote Zwiebel, Chili, Süßkartoffel" },
+      "lomo": { "name": "Lomo saltado", "note": "Rind, Zwiebel, Tomate, Soja" },
+      "tiradito": { "name": "Tiradito de ají amarillo", "note": "Dünn geschnittener Fisch, gelbe Chilisauce" },
+      "causa": { "name": "Causa limeña", "note": "Kalte Kartoffelmasse mit Limette, Chili und Avocado" },
+      "parrillada": { "name": "Parrillada de mariscos", "note": "Meeresfrüchte vom Grill, Knoblauch und Limette" },
+      "conchas": { "name": "Conchas a la parmesana", "note": "Jakobsmuscheln mit Butter und Käse, kurz gegrillt" },
       "quinoa": { "name": "Ensalada de quinoa", "note": "Quinoa, Avocado, Gurke, Mango" },
-      "pisco": { "name": "Pisco sour", "note": "Pisco, Limette, Sirup, Eiweiß, Bitter" }
+      "pisco": { "name": "Pisco sour", "note": "Pisco, Limette, Zucker, Eiweiß" }
     },
-    "diet": "Vegetarisch und vegan lässt sich fast alles davon ohne Umstände machen. Sag es uns beim Schreiben, dann kaufen wir anders ein — entscheidest du dich erst vor Ort, bekommst du, was die Boote hatten."
+    "diet": "Vegetarisch und vegan ist fast alles möglich. Sag uns vorher Bescheid, dann kaufen wir passend ein."
   },
   "stay": {
     "hero": {
       "title": "Unterkunft",
-      "tagline": "Holz, Wellblech und Schiffscontainer, im einzigen Ort, in dem alle drei Sinn ergeben."
+      "tagline": "Einfache Zimmer, direkt am Strand."
     },
     "intro": {
-      "heading": "Nah genug, um zu hören, ob es läuft",
-      "body": "Lobitos wurde zweimal gebaut. Zuerst von einer Ölgesellschaft, die vor hundert Jahren Holzhäuser auf Stelzen setzte, dann von Surfern, die später kamen und mit dem bauten, was herumlag — meist Container, meist besser als erwartet. Die Zimmer sind einfach und das WLAN ist langsam. Die Wand zwischen dir und dem Pazifik ist dünn genug, dass du die Wellengröße kennst, bevor du die Augen aufmachst."
+      "heading": "Du schläfst direkt am Meer",
+      "body": "Lobitos wurde zweimal gebaut. Erst von einer Ölfirma vor hundert Jahren, dann von Surfern, die mit dem bauten, was da war. Die Zimmer sind einfach und das WLAN ist langsam. Dafür hörst du morgens, wie groß die Wellen sind, bevor du aufstehst."
     },
-    "note": "Es gibt nur wenige Zimmer, und sie sind nicht immer frei. Frag beim Schreiben mit: Wir sagen dir, was offen ist, oder schicken dich zu Nachbarn, bei denen wir selbst schlafen würden."
+    "note": "Es gibt nur wenige Zimmer. Frag uns einfach, dann sagen wir dir, was frei ist. Oder wir empfehlen dir Nachbarn, bei denen wir selbst schlafen würden."
   },
   "about": {
     "hero": {
       "title": "Diego",
-      "tagline": "Surfer und Koch — deshalb musst du dich nicht entscheiden."
+      "tagline": "Surfer und Koch aus Lobitos"
     },
-    "body1": "Diego ist an dieser Küste aufgewachsen und hat den größten Teil seines Lebens zwischen Wasser und Küche verbracht. Er unterrichtet so, wie Leute unterrichten, die es nicht eilig haben: weniger Ansagen, mehr Zeit im Wasser, und die Angewohnheit, so lange auf Dinge zu zeigen, bis du sie auch siehst.",
-    "body2": "Die Kochhälfte war ein Zufall. Gäste blieben zum Essen, fragten dann, wie es gemacht wird, und irgendwann war die zweite Tageshälfte nicht mehr das, was nebenbei passierte, sondern der Grund, warum Leute buchen.",
+    "body1": "Diego ist hier an der Küste aufgewachsen und verbringt sein Leben zwischen Wasser und Küche. Er unterrichtet ruhig und ohne Eile: wenig reden, viel Zeit im Wasser.",
+    "body2": "Das Kochen kam von selbst dazu. Gäste blieben zum Essen und fragten, wie es geht. Heute ist der Nachmittag in der Küche für viele der Hauptgrund zu kommen.",
     "placeholder": "Dieser Abschnitt ist ein Entwurf. Schick ein paar Sätze in Diegos eigenen Worten — wo er surfen gelernt hat, wo kochen — dann wird er ersetzt."
   },
   "contact": {
     "hero": {
       "title": "Frag Diego",
-      "tagline": "Sag uns ungefähr, wann du kommst und mit wie vielen. Du bekommst eine Antwort von Diego, keine Automatik."
+      "tagline": "Sag uns, wann du kommst und mit wie vielen. Diego antwortet dir persönlich."
     },
     "form": {
       "heading": "Termine und Preise anfragen",
@@ -180,14 +184,14 @@
       "message": "Sonst noch etwas? (optional)",
       "submit": "An Diego senden",
       "sending": "Wird gesendet …",
-      "success": "Danke — deine Nachricht ist bei uns. Du hörst in ein bis zwei Tagen von uns.",
-      "error": "Das ist nicht durchgegangen. Schreib uns bitte direkt über die Angaben neben diesem Formular.",
+      "success": "Danke, deine Nachricht ist da. Diego antwortet dir in ein bis zwei Tagen.",
+      "error": "Das hat nicht geklappt. Schreib uns bitte direkt über die Angaben neben dem Formular.",
       "nameError": "Bitte nenn uns deinen Namen.",
       "emailError": "Bitte prüf die E-Mail-Adresse.",
       "peopleError": "Zwischen 1 und 12 Personen."
     },
     "details": {
-      "heading": "Oder schreib uns einfach",
+      "heading": "Oder schreib direkt",
       "whatsapp": "WhatsApp",
       "email": "E-Mail",
       "where": "Wo",

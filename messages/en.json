@@ -1,9 +1,8 @@
 {
   "common": {
     "brand": "Surf and Cook",
-    "bookNow": "Ask for dates and prices",
+    "bookNow": "Ask about a place",
     "seeCourses": "See how a day runs",
-    "learnMore": "Read more",
     "location": "Lobitos · Piura · Peru"
   },
   "nav": {
@@ -19,99 +18,104 @@
   "home": {
     "hero": {
       "eyebrow": "Lobitos · Northern Peru",
-      "title": "Your first wave and your first ceviche. Same day.",
-      "tagline": "Two hours in the water with Diego. An afternoon in the kitchen with whatever the boats brought in. Dinner on the sand while the sun drops behind the point.",
-      "imageAlt": "Diego preparing ceviche on the beach at sunset"
+      "title": "Learn to surf and cook with Diego on the beach",
+      "tagline": "In the morning we surf the first waves. In the afternoon we cook ceviche from today's catch. In the evening we sit on the beach, eat together and have a Pisco Sour while the sun goes down. A day with Diego you will not forget.",
+      "metaDescription": "Learn to surf and cook Peruvian food in one day, with Diego in Lobitos, northern Peru. Small groups, gear included, dinner on the beach.",
+      "imageAlt": "Diego cutting ceviche at a wooden table on the beach, surfers behind him in the evening light"
     },
     "intro": {
       "eyebrow": "The day",
-      "heading": "Most surf trips give you one skill. This one gives you two.",
-      "body": "You can book a lesson anywhere. What you cannot book anywhere is the walk to the pier afterwards, picking the fish that decides dinner, and learning to cut it properly from someone who cooks for a living. You go home able to catch a wave and make a ceviche — and knowing why Peruvians argue about both."
+      "heading": "Surf and cook in one day",
+      "body": "You can take a surf lesson anywhere. Here you walk down to the boats with Diego afterwards, pick the fish and cook it yourself. By the end you can do both: catch a wave and make a ceviche."
     },
     "steps": {
       "surf": {
         "title": "Surf with Diego",
-        "body": "Two hours in the water. Four people at most, so every wave you miss gets explained. Board and wetsuit are on us.",
+        "body": "Two hours in the water, four people at most. That way everyone gets enough time. Board and wetsuit are included.",
         "imageAlt": "Surf lesson in the shallows"
       },
       "cook": {
         "title": "Cook it yourself",
-        "body": "Lime, ají limo, red onion, fish that was swimming this morning. Diego does not demonstrate while you watch — you hold the knife.",
+        "body": "Lime, chilli, red onion and fresh fish. Diego shows you every step. The cooking is yours.",
         "imageAlt": "Hands preparing ceviche on a wooden table"
       },
       "eat": {
-        "title": "Eat what you made",
-        "body": "One long table, everything you cooked, and the light going orange over the point. A Pisco Sour if you want one.",
+        "title": "Eat together",
+        "body": "One long table on the beach, all of it cooked by you. With a Pisco Sour and the sunset.",
         "imageAlt": "Guests at a long table at sunset"
       }
     },
     "included": {
-      "heading": "No surprises on the bill",
+      "heading": "Everything included",
       "items": {
         "groups": {
-          "title": "Four people maximum",
-          "body": "Small enough that Diego is watching you specifically, not the group."
+          "title": "Small groups",
+          "body": "Four people a day at most. That way Diego has time for you."
         },
         "gear": {
           "title": "Board and wetsuit",
-          "body": "Included. The Humboldt current runs colder than the latitude suggests — bring nothing."
+          "body": "Included. The water is cooler than you would think, but you do not need to bring anything."
         },
         "photos": {
-          "title": "Your photos, free",
-          "body": "Someone shoots while you surf. You get the files afterwards. Nobody tries to sell them back to you."
+          "title": "Free photos",
+          "body": "Someone photographs you while you surf. You get the pictures afterwards, at no charge."
         },
         "food": {
-          "title": "Ingredients and dinner",
-          "body": "Everything you cook and everything you drink is part of the day, not an extra."
+          "title": "Food and ingredients",
+          "body": "Everything you cook and drink is part of the price."
         }
       }
     },
     "place": {
       "eyebrow": "Lobitos",
-      "heading": "A left that runs for 300 metres, in a town most people drive past",
-      "body": "Lobitos sits where the Sechura desert meets the Pacific. It was a British oil town once, and the wooden houses they raised on stilts are still standing — sun-bleached, leaning, lived in. Between them, shipping containers have become kitchens and rooms. There is no strip, no resort and no queue: sand, wind, one of the most consistent left-hand point breaks on the continent, and people who came for a season and never left.",
+      "heading": "300 metre waves, hardly anyone in the water",
+      "body": "Lobitos lies in the north of Peru, where the desert meets the sea. It used to be a British oil town and the old wooden houses are still standing. Today it is mostly surfers who live here. No resort, no promenade, no queue in the water.",
       "cta": "See where you sleep"
     },
     "kitchenTeaser": {
       "eyebrow": "The kitchen",
-      "heading": "Nothing here came out of a freezer",
-      "body": "Coastal Peruvian cooking is fish, lime, chilli and knowing when to stop. You will learn all four.",
+      "heading": "Straight off the boat",
+      "body": "Peruvian cooking means fish, lime and chilli. It does not need more than that. Diego shows you how it works.",
       "cta": "See what we cook"
+    },
+    "closing": {
+      "heading": "Only four places a day",
+      "body": "Write to us with when you want to come and how many of you there are. Diego answers within a day or two, and tells you whether there is still a room free."
     }
   },
   "courses": {
     "hero": {
       "title": "Surf",
-      "tagline": "Lobitos breaks left, long and predictable. A forgiving place to start, and a hard place to stop improving."
+      "tagline": "In Lobitos the waves break to the left, long and even. Perfect for learning."
     },
     "levels": {
-      "heading": "Tell us where you are, not where you wish you were",
+      "heading": "For every level",
       "beginner": {
-        "title": "Never stood up",
-        "body": "We start inside, where the wave has already broken and there is white water to spare. Paddling, position, pop-up. Most people ride something on the first morning. Almost everyone does by the second."
+        "title": "Beginner",
+        "body": "We start in shallow water, where the wave has already broken. Paddling, position, standing up. Most people are up on the first day."
       },
       "intermediate": {
-        "title": "Standing, but the wave decides",
-        "body": "You get to your feet and then go wherever the foam sends you. We work on reading the section, angling the take-off, and staying ahead of the break instead of behind it."
+        "title": "You can stand already",
+        "body": "You get to your feet, but the wave decides where you go. We practise reading the wave and paddling in at the right angle."
       },
       "advanced": {
-        "title": "You do not need a lesson",
-        "body": "You need someone who knows which bank works on which tide, and why yesterday was better. Diego surfs with you and talks between sets."
+        "title": "You surf confidently",
+        "body": "Then you do not need a lesson, you need someone who knows the spots. Diego surfs with you and gives you tips."
       }
     },
     "practical": {
-      "heading": "The things people email to ask",
+      "heading": "Common questions",
       "season": {
         "title": "When should I come?",
-        "body": "Lobitos works every month of the year. April to October brings the bigger, longer swells. December to March is warmer, smaller and far kinder if you are learning."
+        "body": "Lobitos works all year. From April to October the waves are bigger. From December to March it is warmer and easier for learning."
       },
       "water": {
         "title": "Is the water cold?",
-        "body": "Colder than a map suggests — the Humboldt current runs up this coast from Antarctica. A shorty is usually enough, a full suit is better in winter. Both are included, so bring neither."
+        "body": "Cooler than you would think. A short wetsuit is usually enough, a long one in winter. Both are included."
       },
       "safety": {
-        "title": "What if I get into trouble?",
-        "body": "You will not be alone in the water at any point. Small groups, a briefing before you go in, and spots chosen for you rather than for the photograph. Lobitos has rocks and current in places, and we simply do not take you there."
+        "title": "Is it safe?",
+        "body": "You are never alone in the water. We surf in small groups, run a short briefing beforehand, and pick the spot to match your level."
       }
     },
     "imageAlts": {
@@ -123,49 +127,49 @@
   "kitchen": {
     "hero": {
       "title": "Kitchen",
-      "tagline": "The Peruvian coast eats raw fish cured in lime, with chilli and sweet potato. Everything else is a variation on that."
+      "tagline": "Raw fish in lime, with chilli and sweet potato. That is how the coast of Peru eats."
     },
     "intro": {
-      "heading": "There is no menu, because there is no fixed catch",
-      "body": "We walk down to the boats, look at what came in, and build the afternoon around it. That is not a limitation — it is the entire reason it tastes like this. What follows is what usually turns up, not a promise."
+      "heading": "We cook what the boats bring in",
+      "body": "In the morning we go down to the boats and see what there is. Then we plan the afternoon. That is exactly why it tastes so fresh. The dishes below are the usual ones, but we cannot promise them."
     },
     "dishes": {
-      "heading": "What usually turns up",
-      "ceviche": { "name": "Ceviche clásico", "note": "Fish, lime, red onion, ají limo, sweet potato" },
-      "lomo": { "name": "Lomo saltado", "note": "Beef, onion, tomato, soy — Peru's Chinese inheritance" },
-      "tiradito": { "name": "Tiradito de ají amarillo", "note": "Sliced thin, yellow chilli cream, no onion" },
-      "causa": { "name": "Causa limeña", "note": "Cold potato layered with lime, chilli and avocado" },
-      "parrillada": { "name": "Parrillada de mariscos", "note": "Whatever the grill can take, garlic and lime" },
-      "conchas": { "name": "Conchas a la parmesana", "note": "Scallops in the shell, butter, cheese, grill" },
+      "heading": "What we usually cook",
+      "ceviche": { "name": "Ceviche clásico", "note": "Fish, lime, red onion, chilli, sweet potato" },
+      "lomo": { "name": "Lomo saltado", "note": "Beef, onion, tomato, soy" },
+      "tiradito": { "name": "Tiradito de ají amarillo", "note": "Thinly sliced fish, yellow chilli sauce" },
+      "causa": { "name": "Causa limeña", "note": "Cold potato with lime, chilli and avocado" },
+      "parrillada": { "name": "Parrillada de mariscos", "note": "Grilled seafood, garlic and lime" },
+      "conchas": { "name": "Conchas a la parmesana", "note": "Scallops with butter and cheese, briefly grilled" },
       "quinoa": { "name": "Ensalada de quinoa", "note": "Quinoa, avocado, cucumber, mango" },
-      "pisco": { "name": "Pisco sour", "note": "Pisco, lime, syrup, egg white, bitters" }
+      "pisco": { "name": "Pisco sour", "note": "Pisco, lime, sugar, egg white" }
     },
-    "diet": "Vegetarian and vegan versions of nearly all of this are straightforward. Tell us when you write and we shop differently — decide on the day and you get whatever the boats had."
+    "diet": "Vegetarian and vegan work for nearly everything. Just tell us beforehand and we shop accordingly."
   },
   "stay": {
     "hero": {
       "title": "Stay",
-      "tagline": "Wood, corrugated iron and shipping containers, in the one town where all three make sense."
+      "tagline": "Simple rooms, right on the beach."
     },
     "intro": {
-      "heading": "Close enough to hear whether it is working",
-      "body": "Lobitos was built twice. First by an oil company that raised wooden houses on stilts a century ago, then by surfers who arrived later and built with what was lying around — mostly containers, mostly better than you would expect. Rooms are simple and the wifi is slow. The wall between you and the Pacific is thin enough that you will know the swell size before you open your eyes."
+      "heading": "You sleep right by the sea",
+      "body": "Lobitos was built twice. First by an oil company a hundred years ago, then by surfers who built with whatever was around. The rooms are simple and the wifi is slow. In return you hear how big the waves are in the morning, before you get up."
     },
-    "note": "There are only a few rooms and they are not always free. Ask when you write: we will tell you what is open, or send you to neighbours we would stay with ourselves."
+    "note": "There are only a few rooms. Just ask us and we will tell you what is free. Or we point you to neighbours we would stay with ourselves."
   },
   "about": {
     "hero": {
       "title": "Diego",
-      "tagline": "Surfer and cook — which is why you do not have to choose."
+      "tagline": "Surfer and cook from Lobitos"
     },
-    "body1": "Diego grew up on this coast and has spent most of his life between the water and a kitchen. He teaches the way people teach when they are not in a hurry: fewer instructions, more time in the water, and a habit of pointing at things until you see them too.",
-    "body2": "The cooking half was an accident. Guests kept staying for dinner, then kept asking how it was made, and at some point the second half of the day stopped being something that just happened and became the reason people book.",
+    "body1": "Diego grew up on this coast and spends his life between the water and the kitchen. He teaches calmly and without rushing: little talking, plenty of time in the water.",
+    "body2": "The cooking came along by itself. Guests stayed for dinner and asked how it was done. Today the afternoon in the kitchen is the main reason many people come.",
     "placeholder": "This section is a draft. Send a few sentences in Diego's own words — where he learned to surf, where he learned to cook — and it gets replaced."
   },
   "contact": {
     "hero": {
       "title": "Ask Diego",
-      "tagline": "Tell us roughly when you are coming and how many of you there are. You get an answer from Diego, not an autoresponder."
+      "tagline": "Tell us when you are coming and how many of you there are. Diego answers you personally."
     },
     "form": {
       "heading": "Ask for dates and prices",
@@ -180,14 +184,14 @@
       "message": "Anything else? (optional)",
       "submit": "Send to Diego",
       "sending": "Sending …",
-      "success": "Thank you — your message is with us. You will hear back within a day or two.",
-      "error": "That did not go through. Please write to us directly using the details beside this form.",
+      "success": "Thank you, your message is here. Diego will answer within a day or two.",
+      "error": "That did not work. Please write to us directly using the details beside the form.",
       "nameError": "Please tell us your name.",
       "emailError": "Please check the email address.",
       "peopleError": "Between 1 and 12 people."
     },
     "details": {
-      "heading": "Or just message us",
+      "heading": "Or write directly",
       "whatsapp": "WhatsApp",
       "email": "Email",
       "where": "Where",
