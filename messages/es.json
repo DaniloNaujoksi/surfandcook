@@ -1,8 +1,8 @@
 {
   "common": {
     "brand": "Surf and Cook",
-    "bookNow": "Consultar fecha",
-    "seeCourses": "El día",
+    "bookNow": "Pedir fechas y precios",
+    "seeCourses": "Cómo es un día",
     "learnMore": "Leer más",
     "location": "Lobitos · Piura · Perú"
   },
@@ -19,87 +19,99 @@
   "home": {
     "hero": {
       "eyebrow": "Lobitos · Norte del Perú",
-      "title": "Surfear, cocinar, comer, repetir",
-      "tagline": "Una izquierda que no se acaba, pescado recién bajado del bote y una mesa en la arena cuando cae el sol.",
+      "title": "Tu primera ola y tu primer ceviche. El mismo día.",
+      "tagline": "Dos horas en el agua con Diego. Una tarde en la cocina con lo que trajeron los botes. Cena en la arena mientras el sol cae detrás de la punta.",
       "imageAlt": "Diego preparando ceviche en la playa al atardecer"
     },
     "intro": {
       "eyebrow": "El día",
-      "heading": "Un día, dos cosas que vale la pena aprender",
-      "body": "La mañana es del agua, la tarde de la cocina. Entre las dos bajamos al muelle a ver qué trajeron los botes, y eso decide la cena. Te vas sabiendo tomar una ola y preparar un ceviche. Y con una idea bastante clara de por qué los peruanos discuten sobre ambas cosas."
+      "heading": "Casi todos los viajes de surf te enseñan una cosa. Este, dos.",
+      "body": "Una clase de surf la consigues en cualquier lado. Lo que no consigues en ningún lado es la bajada al muelle después, elegir el pescado que decide la cena y aprender a cortarlo bien de alguien que vive de cocinar. Te vas sabiendo tomar una ola y preparar un ceviche — y sabiendo por qué los peruanos discuten sobre ambas cosas."
     },
     "steps": {
       "surf": {
         "title": "Surf con Diego",
-        "body": "Dos horas en el agua, grupos pequeños, tabla y traje incluidos. Los principiantes se paran. El resto trabaja en leer la ola.",
+        "body": "Dos horas en el agua. Cuatro personas como máximo, para que cada ola que pierdes te la expliquen. La tabla y el traje los ponemos nosotros.",
         "imageAlt": "Clase de surf en la orilla"
       },
       "cook": {
-        "title": "Cocinar juntos",
-        "body": "De vuelta en la casa, con las manos. Limón, ají, cebolla roja y pescado que esta mañana todavía nadaba. No es una demostración: cortas tú.",
+        "title": "Cocínalo tú",
+        "body": "Limón, ají limo, cebolla roja y pescado que esta mañana todavía nadaba. Diego no cocina mientras miras: el cuchillo lo tienes tú.",
         "imageAlt": "Manos preparando ceviche sobre una mesa de madera"
       },
       "eat": {
-        "title": "Comer al atardecer",
-        "body": "Se come lo que hiciste, en una mesa larga, mientras la luz se pone naranja sobre la punta. Un pisco sour, si quieres.",
+        "title": "Come lo que hiciste",
+        "body": "Una mesa larga, todo cocinado por ustedes y la luz poniéndose naranja sobre la punta. Un pisco sour, si quieres.",
         "imageAlt": "Invitados en una mesa larga al atardecer"
       }
     },
     "included": {
-      "heading": "Qué incluye",
+      "heading": "Sin sorpresas en la cuenta",
       "items": {
-        "groups": { "title": "Grupos pequeños", "body": "Cuatro personas como máximo, para que de verdad te corrijan." },
-        "gear": { "title": "Tabla y traje", "body": "Incluidos. El agua de Lobitos es más fría de lo que parece." },
-        "photos": { "title": "Fotos", "body": "Alguien dispara mientras surfeas. Te llevas los archivos, sin venta después." },
-        "food": { "title": "Todo lo que cocinas", "body": "Ingredientes, bebidas y la comida forman parte del día." }
+        "groups": {
+          "title": "Cuatro personas como máximo",
+          "body": "Lo bastante pequeño para que Diego te mire a ti y no al grupo."
+        },
+        "gear": {
+          "title": "Tabla y traje",
+          "body": "Incluidos. La corriente de Humboldt es más fría de lo que sugiere la latitud — no traigas nada."
+        },
+        "photos": {
+          "title": "Tus fotos, sin costo",
+          "body": "Alguien dispara mientras surfeas y después te pasa los archivos. Nadie intenta vendértelas."
+        },
+        "food": {
+          "title": "Ingredientes y cena",
+          "body": "Todo lo que cocinas y todo lo que tomas es parte del día, no un agregado."
+        }
       }
     },
     "place": {
       "eyebrow": "Lobitos",
-      "heading": "Un pueblo de desierto que vive del swell",
-      "body": "Lobitos está donde el desierto de Sechura se encuentra con el Pacífico, unas horas al sur de la frontera con Ecuador. Fue un pueblo petrolero: los británicos dejaron casonas de madera sobre pilotes que siguen en pie, descoloridas y torcidas. Entre ellas, los contenedores se han convertido en cocinas, talleres y cuartos. No hay mucho más: arena, viento, una de las izquierdas más constantes del continente y gente que vino por una temporada y se quedó.",
-      "cta": "Dónde estamos"
+      "heading": "Una izquierda de 300 metros, en un pueblo por el que casi todos pasan de largo",
+      "body": "Lobitos está donde el desierto de Sechura se encuentra con el Pacífico. Fue un pueblo petrolero británico, y las casonas de madera sobre pilotes siguen ahí: descoloridas, torcidas, habitadas. Entre ellas, los contenedores se volvieron cocinas y cuartos. No hay malecón, ni resort, ni cola en el agua: arena, viento, uno de los point breaks izquierdos más constantes del continente y gente que vino por una temporada y no se fue más.",
+      "cta": "Dónde vas a dormir"
     },
     "kitchenTeaser": {
       "eyebrow": "La cocina",
-      "heading": "Qué cocinamos",
-      "body": "Comida de la costa peruana — es decir: pescado, limón, ají y mesura.",
-      "cta": "Ver los platos"
+      "heading": "Aquí nada salió del congelador",
+      "body": "La cocina de la costa peruana es pescado, limón, ají y saber cuándo parar. Las cuatro cosas se aprenden acá.",
+      "cta": "Qué cocinamos"
     }
   },
   "courses": {
     "hero": {
       "title": "Surf",
-      "tagline": "Lobitos rompe a la izquierda, larga y pareja. Buen sitio para aprender y mejor para mejorar."
+      "tagline": "Lobitos rompe a la izquierda, larga y previsible. Un sitio indulgente para empezar y muy malo para dejarlo."
     },
     "levels": {
-      "heading": "Dónde empiezas",
+      "heading": "Dinos dónde estás, no dónde te gustaría estar",
       "beginner": {
         "title": "Nunca te paraste",
-        "body": "Empezamos por dentro, donde la ola ya rompió y sobra espuma. Remada, posición, pop-up. La mayoría corre algo el primer día; casi todos el segundo."
+        "body": "Empezamos por dentro, donde la ola ya rompió y sobra espuma. Remada, posición, pop-up. La mayoría corre algo la primera mañana. Casi todos, como mucho, la segunda."
       },
       "intermediate": {
-        "title": "Te paras, pero no diriges",
-        "body": "Llegas de pie, pero la ola decide adónde vas. Trabajamos en leer la sección, entrar en ángulo y mantenerte delante de la espuma."
+        "title": "Te paras, pero manda la ola",
+        "body": "Llegas de pie y después vas adonde te empuja la espuma. Trabajamos en leer la sección, entrar en ángulo y quedarte delante de la rompiente en vez de detrás."
       },
       "advanced": {
-        "title": "Buscando la sección",
-        "body": "No necesitas clase, necesitas a alguien que sepa qué banco funciona con qué marea. Diego surfea contigo y habla entre series."
+        "title": "No necesitas clase",
+        "body": "Necesitas a alguien que sepa qué banco funciona con qué marea y por qué ayer estaba mejor. Diego surfea contigo y habla entre series."
       }
     },
     "practical": {
-      "heading": "Práctico",
+      "heading": "Lo que más nos preguntan",
       "season": {
-        "title": "Cuándo venir",
-        "body": "Lobitos funciona todo el año. Los swells más grandes y largos llegan entre abril y octubre; de diciembre a marzo el mar es más cálido, más chico y más amable para aprender."
+        "title": "¿Cuándo conviene venir?",
+        "body": "Lobitos funciona todos los meses. De abril a octubre llegan los swells más grandes y largos. De diciembre a marzo el mar es más cálido, más chico y bastante más amable si estás aprendiendo."
       },
       "water": {
-        "title": "El agua",
-        "body": "La corriente de Humboldt la mantiene más fría de lo que sugiere la latitud. Con un shorty suele bastar; en invierno mejor traje largo. Ambos incluidos."
+        "title": "¿El agua es fría?",
+        "body": "Más fría de lo que sugiere el mapa: la corriente de Humboldt sube por esta costa desde la Antártida. Con un shorty suele bastar; en invierno mejor traje largo. Los dos están incluidos, así que no traigas ninguno."
       },
       "safety": {
-        "title": "Seguridad",
-        "body": "Grupos pequeños, charla antes de entrar y alguien contigo en el agua todo el tiempo. Lobitos tiene piedras y corriente en algunos puntos: vamos donde te corresponde, no donde saldría la mejor foto."
+        "title": "¿Y si me pasa algo?",
+        "body": "En ningún momento vas a estar solo en el agua. Grupos pequeños, charla antes de entrar y spots elegidos por ti, no por la foto. Lobitos tiene piedras y corriente en algunos puntos, y ahí sencillamente no te llevamos."
       }
     },
     "imageAlts": {
@@ -111,11 +123,11 @@
   "kitchen": {
     "hero": {
       "title": "Cocina",
-      "tagline": "La costa peruana come pescado crudo, cocido en limón, con ají y camote. Todo lo demás es variación."
+      "tagline": "La costa peruana come pescado crudo cocido en limón, con ají y camote. Todo lo demás es una variación de eso."
     },
     "intro": {
-      "heading": "Cocinamos lo que trajeron los botes",
-      "body": "No hay carta fija porque no hay pesca fija. Bajamos, miramos qué entró y armamos la tarde alrededor de eso. Lo que sigue es lo que suele aparecer: no es una promesa, es una costumbre."
+      "heading": "No hay carta, porque no hay pesca fija",
+      "body": "Bajamos a los botes, miramos qué entró y armamos la tarde alrededor de eso. No es una limitación: es exactamente la razón por la que sabe así. Lo que sigue es lo que suele aparecer, no una promesa."
     },
     "dishes": {
       "heading": "Lo que suele aparecer",
@@ -128,35 +140,35 @@
       "quinoa": { "name": "Ensalada de quinua", "note": "Quinua, palta, pepino, mango" },
       "pisco": { "name": "Pisco sour", "note": "Pisco, limón, jarabe, clara, amargo" }
     },
-    "diet": "La mayoría se puede hacer vegetariana o vegana sin problema — avísanos antes y compramos distinto."
+    "diet": "Casi todo se puede hacer vegetariano o vegano sin problema. Avísanos al escribir y compramos distinto — si lo decides el mismo día, te toca lo que hayan traído los botes."
   },
   "stay": {
     "hero": {
       "title": "Alojamiento",
-      "tagline": "Madera, calamina y contenedores, en un pueblo donde los tres tienen sentido."
+      "tagline": "Madera, calamina y contenedores, en el único pueblo donde los tres tienen sentido."
     },
     "intro": {
-      "heading": "Dónde duermes",
-      "body": "Lobitos se construyó dos veces: una por una petrolera que levantó casonas de madera sobre pilotes hace un siglo, y otra por surfistas que llegaron después y construyeron con lo que había — casi siempre contenedores, casi siempre bien. Los cuartos son simples. El agua sale caliente, el wifi no es rápido y la pared que te separa del Pacífico es lo bastante delgada para oírlo."
+      "heading": "Lo bastante cerca para oír si está entrando",
+      "body": "Lobitos se construyó dos veces. Primero una petrolera levantó casonas de madera sobre pilotes hace un siglo, después llegaron los surfistas y construyeron con lo que había tirado — casi siempre contenedores, casi siempre mejor de lo que uno esperaría. Los cuartos son simples y el wifi es lento. La pared que te separa del Pacífico es lo bastante delgada para que sepas el tamaño del swell antes de abrir los ojos."
     },
-    "note": "Los cuartos son pocos y no siempre están libres. Pregunta al escribirnos y te decimos qué hay — o te mandamos con vecinos de confianza."
+    "note": "Hay pocos cuartos y no siempre están libres. Pregunta al escribirnos: te decimos qué hay, o te mandamos con vecinos donde nosotros mismos dormiríamos."
   },
   "about": {
     "hero": {
       "title": "Diego",
-      "tagline": "Surfista, cocinero — y la razón por la que ambas cosas pasan el mismo día."
+      "tagline": "Surfista y cocinero — por eso no tienes que elegir."
     },
-    "body1": "Diego creció en esta costa y ha pasado la mayor parte de su vida entre el agua y una cocina. Enseña como enseña la gente que no tiene prisa: menos indicaciones, más tiempo en el agua y la costumbre de señalar cosas.",
-    "body2": "La parte de cocinar empezó siendo lo que pasaba después de surfear de todos modos. Los visitantes se quedaban a comer, después preguntaban cómo se hacía, y en algún momento la segunda mitad del día dejó de ser casualidad.",
-    "placeholder": "Esta sección es un borrador. Mándame unas frases en las propias palabras de Diego — dónde aprendió a surfear, dónde a cocinar — y la reemplazo."
+    "body1": "Diego creció en esta costa y ha pasado la mayor parte de su vida entre el agua y una cocina. Enseña como enseña la gente que no tiene prisa: menos indicaciones, más tiempo en el agua y la costumbre de señalar cosas hasta que tú también las ves.",
+    "body2": "La parte de cocinar fue un accidente. Los visitantes se quedaban a comer, después preguntaban cómo se hacía, y en algún momento la segunda mitad del día dejó de ser algo que pasaba de casualidad y se volvió la razón por la que la gente reserva.",
+    "placeholder": "Esta sección es un borrador. Manda unas frases en las propias palabras de Diego — dónde aprendió a surfear, dónde a cocinar — y se reemplaza."
   },
   "contact": {
     "hero": {
-      "title": "Contacto",
-      "tagline": "Cuéntanos más o menos cuándo vienes y cuántos son. Respondemos personalmente."
+      "title": "Pregúntale a Diego",
+      "tagline": "Cuéntanos más o menos cuándo vienes y cuántos son. Te responde Diego, no un automático."
     },
     "form": {
-      "heading": "Consultar fecha",
+      "heading": "Pedir fechas y precios",
       "name": "Tu nombre",
       "email": "Tu correo",
       "people": "Cuántos son",
@@ -166,20 +178,20 @@
       "levelSome": "Algunas veces",
       "levelConfident": "Cómodo en el agua",
       "message": "¿Algo más? (opcional)",
-      "submit": "Enviar",
+      "submit": "Enviar a Diego",
       "sending": "Enviando …",
-      "success": "Gracias — recibimos tu mensaje. Respondemos en uno o dos días.",
-      "error": "Algo salió mal. Escríbenos directamente, por favor.",
+      "success": "Gracias — recibimos tu mensaje. Te respondemos en uno o dos días.",
+      "error": "No se pudo enviar. Escríbenos directamente con los datos que están al lado de este formulario.",
       "nameError": "Dinos tu nombre, por favor.",
       "emailError": "Revisa el correo, por favor.",
       "peopleError": "Entre 1 y 12 personas."
     },
     "details": {
-      "heading": "Directo",
+      "heading": "O escríbenos directo",
       "whatsapp": "WhatsApp",
       "email": "Correo",
       "where": "Dónde",
-      "placeholder": "Faltan los datos de contacto — mándame el número de WhatsApp, el correo y el Instagram y los pongo."
+      "placeholder": "Faltan los datos de contacto — manda el número de WhatsApp, el correo y el Instagram y van aquí."
     }
   },
   "footer": {
