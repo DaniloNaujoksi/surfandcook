@@ -1,0 +1,191 @@
+{
+  "common": {
+    "brand": "Surf and Cook",
+    "bookNow": "Termin anfragen",
+    "seeCourses": "Der Tag im Überblick",
+    "learnMore": "Mehr lesen",
+    "location": "Lobitos · Piura · Peru"
+  },
+  "nav": {
+    "courses": "Surfen",
+    "kitchen": "Küche",
+    "stay": "Unterkunft",
+    "about": "Diego",
+    "contact": "Kontakt",
+    "menu": "Menü",
+    "close": "Schließen",
+    "language": "Sprache"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Lobitos · Nordperu",
+      "title": "Surfen, kochen, essen, wiederholen",
+      "tagline": "Eine Linke, die nicht aufhört, ein Fisch direkt vom Boot und ein Tisch im Sand, wenn die Sonne untergeht.",
+      "imageAlt": "Diego bereitet Ceviche am Strand zu, bei Sonnenuntergang"
+    },
+    "intro": {
+      "eyebrow": "Der Tag",
+      "heading": "Ein Tag, zwei Dinge, die sich lohnen",
+      "body": "Der Vormittag gehört dem Wasser, der Nachmittag der Küche. Dazwischen gehen wir zum Steg und schauen, was die Boote gebracht haben — das entscheidet über das Abendessen. Du fährst nach Hause und kannst eine Welle nehmen und ein Ceviche machen. Und du ahnst, warum Peruaner über beides streiten."
+    },
+    "steps": {
+      "surf": {
+        "title": "Surfen mit Diego",
+        "body": "Zwei Stunden im Wasser, kleine Gruppen, Board und Neopren inklusive. Anfänger stehen auf. Alle anderen arbeiten daran, die Welle zu lesen.",
+        "imageAlt": "Surfstunde im flachen Wasser"
+      },
+      "cook": {
+        "title": "Gemeinsam kochen",
+        "body": "Zurück im Haus, selbst Hand anlegen. Limette, Chili, rote Zwiebel, Fisch, der heute Morgen noch geschwommen ist. Keine Vorführung — du schneidest.",
+        "imageAlt": "Hände bereiten Ceviche auf einem Holztisch zu"
+      },
+      "eat": {
+        "title": "Essen bei Sonnenuntergang",
+        "body": "Gegessen wird, was du gemacht hast, an einer langen Tafel, während das Licht über der Landzunge orange wird. Ein Pisco Sour, wenn du magst.",
+        "imageAlt": "Gäste an einer langen Tafel bei Sonnenuntergang"
+      }
+    },
+    "included": {
+      "heading": "Was dabei ist",
+      "items": {
+        "groups": { "title": "Kleine Gruppen", "body": "Höchstens vier Leute, damit dich wirklich jemand korrigiert." },
+        "gear": { "title": "Board und Neopren", "body": "Inklusive. Das Wasser vor Lobitos ist kühler, als es aussieht." },
+        "photos": { "title": "Fotos", "body": "Jemand fotografiert, während du surfst. Du bekommst die Dateien, ohne Verkaufsgespräch." },
+        "food": { "title": "Alles, was du kochst", "body": "Zutaten, Getränke und das Essen selbst gehören zum Tag." }
+      }
+    },
+    "place": {
+      "eyebrow": "Lobitos",
+      "heading": "Ein Wüstenort, der vom Swell lebt",
+      "body": "Lobitos liegt dort, wo die Sechura-Wüste auf den Pazifik trifft, ein paar Stunden südlich der Grenze zu Ecuador. Früher war es ein Ölort — die Briten ließen Holzhäuser auf Stelzen zurück, die immer noch stehen, ausgeblichen und schief. Dazwischen sind aus Schiffscontainern Küchen, Werkstätten und Zimmer geworden. Viel mehr gibt es hier nicht: Sand, Wind, eine der beständigsten Linken des Kontinents und Leute, die für eine Saison kamen und blieben.",
+      "cta": "Wo wir sind"
+    },
+    "kitchenTeaser": {
+      "eyebrow": "Die Küche",
+      "heading": "Was wir kochen",
+      "body": "Peruanische Küstenküche — was vor allem heißt: Fisch, Limette, Chili und Zurückhaltung.",
+      "cta": "Zu den Gerichten"
+    }
+  },
+  "courses": {
+    "hero": {
+      "title": "Surfen",
+      "tagline": "Lobitos bricht links, lang und gleichmäßig. Ein guter Ort, um es zu lernen — und ein besserer, um besser zu werden."
+    },
+    "levels": {
+      "heading": "Wo du anfängst",
+      "beginner": {
+        "title": "Noch nie gestanden",
+        "body": "Wir starten innen, wo die Welle schon gebrochen ist und Weißwasser im Überfluss da ist. Paddeln, Position, Aufstehen. Die meisten fahren am ersten Tag etwas, fast alle spätestens am zweiten."
+      },
+      "intermediate": {
+        "title": "Stehen ja, steuern nein",
+        "body": "Du kommst hoch, aber die Welle bestimmt, wohin es geht. Wir arbeiten daran, den Abschnitt zu lesen, schräg anzupaddeln und vor dem Schaum zu bleiben."
+      },
+      "advanced": {
+        "title": "Auf der Suche nach der Sektion",
+        "body": "Du brauchst keinen Kurs, sondern jemanden, der weiß, welche Bank bei welcher Tide läuft. Diego surft mit dir und redet zwischen den Sets."
+      }
+    },
+    "practical": {
+      "heading": "Praktisches",
+      "season": {
+        "title": "Wann kommen",
+        "body": "Lobitos läuft das ganze Jahr. Die größeren, längeren Swells kommen zwischen April und Oktober; Dezember bis März ist wärmer, kleiner und zum Lernen angenehmer."
+      },
+      "water": {
+        "title": "Das Wasser",
+        "body": "Der Humboldtstrom hält es kühler, als der Breitengrad vermuten lässt. Ein Shorty reicht meist, im Winter ist ein langer Anzug besser. Beides inklusive."
+      },
+      "safety": {
+        "title": "Sicherheit",
+        "body": "Kleine Gruppen, ein Briefing vor dem Reingehen und die ganze Zeit jemand mit dir im Wasser. Lobitos hat stellenweise Felsen und Strömung — wir gehen dorthin, wo du hingehörst, nicht dorthin, wo das Foto am besten wäre."
+      }
+    },
+    "imageAlts": {
+      "beginner": "Anfänger nimmt Weißwasser, Instructor hält das Board",
+      "lineup": "Diego wartet im Line-up",
+      "wave": "Surfer fährt eine offene Welle ab"
+    }
+  },
+  "kitchen": {
+    "hero": {
+      "title": "Küche",
+      "tagline": "Die peruanische Küste isst rohen Fisch, in Limette gegart, mit Chili und Süßkartoffel. Alles andere ist Variation."
+    },
+    "intro": {
+      "heading": "Wir kochen, was die Boote gebracht haben",
+      "body": "Es gibt keine feste Karte, weil es keinen festen Fang gibt. Wir gehen runter, schauen, was reingekommen ist, und bauen den Nachmittag darum herum. Was folgt, taucht meistens auf — kein Versprechen, eine Gewohnheit."
+    },
+    "dishes": {
+      "heading": "Was meistens auf den Tisch kommt",
+      "ceviche": { "name": "Ceviche clásico", "note": "Fisch, Limette, rote Zwiebel, Ají limo, Süßkartoffel" },
+      "lomo": { "name": "Lomo saltado", "note": "Rind, Zwiebel, Tomate, Soja — Perus chinesisches Erbe" },
+      "tiradito": { "name": "Tiradito de ají amarillo", "note": "Dünn aufgeschnitten, gelbe Chilicreme, ohne Zwiebel" },
+      "causa": { "name": "Causa limeña", "note": "Kalter Kartoffelstock, geschichtet mit Limette, Chili, Avocado" },
+      "parrillada": { "name": "Parrillada de mariscos", "note": "Was der Grill hergibt, Knoblauch und Limette" },
+      "conchas": { "name": "Conchas a la parmesana", "note": "Jakobsmuscheln in der Schale, Butter, Käse, Grill" },
+      "quinoa": { "name": "Ensalada de quinoa", "note": "Quinoa, Avocado, Gurke, Mango" },
+      "pisco": { "name": "Pisco sour", "note": "Pisco, Limette, Sirup, Eiweiß, Bitter" }
+    },
+    "diet": "Vegetarisch und vegan lässt sich das meiste davon ohne Umstände machen — sag vorher Bescheid, dann kaufen wir anders ein."
+  },
+  "stay": {
+    "hero": {
+      "title": "Unterkunft",
+      "tagline": "Holz, Wellblech und Schiffscontainer, in einem Ort, in dem alle drei Sinn ergeben."
+    },
+    "intro": {
+      "heading": "Wo du schläfst",
+      "body": "Lobitos wurde zweimal gebaut: einmal von einer Ölgesellschaft, die vor hundert Jahren Holzhäuser auf Stelzen setzte, und einmal von Surfern, die später kamen und mit dem bauten, was da war — meist Container, meist gut. Die Zimmer sind einfach. Das Wasser ist warm, das WLAN ist es nicht, und die Wand zwischen dir und dem Pazifik ist dünn genug, um ihn zu hören."
+    },
+    "note": "Die Zimmer sind wenige und nicht immer frei. Frag beim Schreiben mit an, dann sagen wir dir, was verfügbar ist — oder vermitteln dich an Nachbarn, denen wir vertrauen."
+  },
+  "about": {
+    "hero": {
+      "title": "Diego",
+      "tagline": "Surfer, Koch — und der Grund, warum beides am selben Tag stattfindet."
+    },
+    "body1": "Diego ist an dieser Küste aufgewachsen und hat den größten Teil seines Lebens zwischen Wasser und Küche verbracht. Er unterrichtet so, wie Leute unterrichten, die es nicht eilig haben: weniger Ansagen, mehr Zeit im Wasser und die Angewohnheit, auf Dinge zu zeigen.",
+    "body2": "Die Kochhälfte war anfangs einfach das, was nach dem Surfen ohnehin passierte. Gäste blieben zum Essen, fragten dann, wie es gemacht wird, und irgendwann war die zweite Tageshälfte kein Zufall mehr.",
+    "placeholder": "Dieser Abschnitt ist ein Entwurf. Schick mir ein paar Sätze in Diegos eigenen Worten — wo er surfen gelernt hat, wo kochen — und ich ersetze ihn."
+  },
+  "contact": {
+    "hero": {
+      "title": "Kontakt",
+      "tagline": "Sag uns ungefähr, wann du kommst und mit wie vielen. Wir antworten persönlich."
+    },
+    "form": {
+      "heading": "Termin anfragen",
+      "name": "Dein Name",
+      "email": "Deine E-Mail-Adresse",
+      "people": "Wie viele seid ihr",
+      "date": "Ungefähr wann",
+      "level": "Surf-Erfahrung",
+      "levelNone": "Noch nie gesurft",
+      "levelSome": "Ein paar Mal",
+      "levelConfident": "Sicher im Wasser",
+      "message": "Sonst noch etwas? (optional)",
+      "submit": "Absenden",
+      "sending": "Wird gesendet …",
+      "success": "Danke — deine Nachricht ist bei uns. Wir antworten in ein bis zwei Tagen.",
+      "error": "Etwas ist schiefgelaufen. Schreib uns bitte direkt.",
+      "nameError": "Bitte nenn uns deinen Namen.",
+      "emailError": "Bitte prüf die E-Mail-Adresse.",
+      "peopleError": "Zwischen 1 und 12 Personen."
+    },
+    "details": {
+      "heading": "Direkt",
+      "whatsapp": "WhatsApp",
+      "email": "E-Mail",
+      "where": "Wo",
+      "placeholder": "Kontaktdaten fehlen noch — schick mir WhatsApp-Nummer, E-Mail-Adresse und Instagram, dann trage ich sie ein."
+    }
+  },
+  "footer": {
+    "tagline": "Surfkurse und peruanische Küche in Lobitos, Nordperu.",
+    "navigate": "Seiten",
+    "contact": "Kontakt",
+    "copyright": "Surf and Cook · Lobitos, Peru © {year}"
+  }
+}

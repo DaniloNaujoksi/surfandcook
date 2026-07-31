@@ -1,26 +1,60 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Costa palette — sand, Pacific, ají coral, deep water */
+  --color-sand: #f2ece1;
+  --color-sand-warm: #e7ddcc;
+  --color-shell: #fbf8f3;
+  --color-sea: #1d6f8b;
+  --color-sea-deep: #14303a;
+  --color-coral: #e2725b;
+  --color-coral-soft: #f0a08e;
+  --color-ink: #14303a;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-sand: var(--color-sand);
+  --color-sand-warm: var(--color-sand-warm);
+  --color-shell: var(--color-shell);
+  --color-sea: var(--color-sea);
+  --color-sea-deep: var(--color-sea-deep);
+  --color-coral: var(--color-coral);
+  --color-coral-soft: var(--color-coral-soft);
+  --color-ink: var(--color-ink);
+  --font-display: var(--font-outfit);
+  --font-sans: var(--font-inter);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--color-shell);
+  color: var(--color-ink);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display), system-ui, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.06;
+}
+
+/* Uppercase micro-label for eyebrows, nav and meta */
+@utility label {
+  font-size: 0.6875rem;
+  line-height: 1;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+/* Body copy — generous leading */
+@utility prose-body {
+  font-size: 1rem;
+  line-height: 1.75;
 }

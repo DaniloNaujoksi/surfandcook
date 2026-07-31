@@ -1,0 +1,116 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Surf and Cook" [ref=e4] [cursor=pointer]:
+        - /url: /de/start
+      - navigation [ref=e5]:
+        - link "Surfen" [ref=e6] [cursor=pointer]:
+          - /url: /de/kurse
+        - link "Küche" [ref=e7] [cursor=pointer]:
+          - /url: /de/kueche
+        - link "Unterkunft" [ref=e8] [cursor=pointer]:
+          - /url: /de/unterkunft
+        - link "Diego" [ref=e9] [cursor=pointer]:
+          - /url: /de/ueber-uns
+      - generic [ref=e10]:
+        - button "Sprache" [ref=e12]: DE
+        - link "Kontakt" [ref=e15] [cursor=pointer]:
+          - /url: /de/kontakt
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - img "Diego bereitet Ceviche am Strand zu, bei Sonnenuntergang" [ref=e18]
+      - generic [ref=e20]:
+        - paragraph [ref=e21]: Lobitos · Nordperu
+        - heading "Surfen, kochen, essen, wiederholen" [level=1] [ref=e22]
+        - paragraph [ref=e23]: Eine Linke, die nicht aufhört, ein Fisch direkt vom Boot und ein Tisch im Sand, wenn die Sonne untergeht.
+        - generic [ref=e24]:
+          - link "Termin anfragen" [ref=e25] [cursor=pointer]:
+            - /url: /de/kontakt
+          - link "Der Tag im Überblick" [ref=e26] [cursor=pointer]:
+            - /url: /de/kurse
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - paragraph [ref=e30]: Der Tag
+        - heading "Ein Tag, zwei Dinge, die sich lohnen" [level=2] [ref=e31]
+        - paragraph [ref=e32]: Der Vormittag gehört dem Wasser, der Nachmittag der Küche. Dazwischen gehen wir zum Steg und schauen, was die Boote gebracht haben — das entscheidet über das Abendessen. Du fährst nach Hause und kannst eine Welle nehmen und ein Ceviche machen. Und du ahnst, warum Peruaner über beides streiten.
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - img "Surfstunde im flachen Wasser" [ref=e36]
+          - heading "Surfen mit Diego" [level=3] [ref=e37]
+          - paragraph [ref=e38]: Zwei Stunden im Wasser, kleine Gruppen, Board und Neopren inklusive. Anfänger stehen auf. Alle anderen arbeiten daran, die Welle zu lesen.
+        - generic [ref=e39]:
+          - img "Hände bereiten Ceviche auf einem Holztisch zu" [ref=e41]
+          - heading "Gemeinsam kochen" [level=3] [ref=e42]
+          - paragraph [ref=e43]: Zurück im Haus, selbst Hand anlegen. Limette, Chili, rote Zwiebel, Fisch, der heute Morgen noch geschwommen ist. Keine Vorführung — du schneidest.
+        - generic [ref=e44]:
+          - img "Gäste an einer langen Tafel bei Sonnenuntergang" [ref=e46]
+          - heading "Essen bei Sonnenuntergang" [level=3] [ref=e47]
+          - paragraph [ref=e48]: Gegessen wird, was du gemacht hast, an einer langen Tafel, während das Licht über der Landzunge orange wird. Ein Pisco Sour, wenn du magst.
+    - generic [ref=e50]:
+      - heading "Was dabei ist" [level=2] [ref=e52]
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - heading "Kleine Gruppen" [level=3] [ref=e56]
+          - paragraph [ref=e57]: Höchstens vier Leute, damit dich wirklich jemand korrigiert.
+        - generic [ref=e58]:
+          - heading "Board und Neopren" [level=3] [ref=e60]
+          - paragraph [ref=e61]: Inklusive. Das Wasser vor Lobitos ist kühler, als es aussieht.
+        - generic [ref=e62]:
+          - heading "Fotos" [level=3] [ref=e64]
+          - paragraph [ref=e65]: Jemand fotografiert, während du surfst. Du bekommst die Dateien, ohne Verkaufsgespräch.
+        - generic [ref=e66]:
+          - heading "Alles, was du kochst" [level=3] [ref=e68]
+          - paragraph [ref=e69]: Zutaten, Getränke und das Essen selbst gehören zum Tag.
+    - generic [ref=e71]:
+      - img "Surfstunde im flachen Wasser" [ref=e74]
+      - generic [ref=e75]:
+        - paragraph [ref=e76]: Lobitos
+        - heading "Ein Wüstenort, der vom Swell lebt" [level=2] [ref=e77]
+        - paragraph [ref=e78]: "Lobitos liegt dort, wo die Sechura-Wüste auf den Pazifik trifft, ein paar Stunden südlich der Grenze zu Ecuador. Früher war es ein Ölort — die Briten ließen Holzhäuser auf Stelzen zurück, die immer noch stehen, ausgeblichen und schief. Dazwischen sind aus Schiffscontainern Küchen, Werkstätten und Zimmer geworden. Viel mehr gibt es hier nicht: Sand, Wind, eine der beständigsten Linken des Kontinents und Leute, die für eine Saison kamen und blieben."
+        - link "Wo wir sind" [ref=e79] [cursor=pointer]:
+          - /url: /de/unterkunft
+    - generic [ref=e81]:
+      - generic [ref=e82]:
+        - paragraph [ref=e83]: Die Küche
+        - heading "Was wir kochen" [level=2] [ref=e84]
+        - paragraph [ref=e85]: "Peruanische Küstenküche — was vor allem heißt: Fisch, Limette, Chili und Zurückhaltung."
+      - link "Zu den Gerichten →" [ref=e100] [cursor=pointer]:
+        - /url: /de/kueche
+  - contentinfo [ref=e101]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - paragraph [ref=e104]: Surf and Cook
+        - paragraph [ref=e105]: Surfkurse und peruanische Küche in Lobitos, Nordperu.
+        - paragraph [ref=e106]: Lobitos · Piura · Peru
+      - generic [ref=e107]:
+        - paragraph [ref=e108]: Seiten
+        - list [ref=e109]:
+          - listitem [ref=e110]:
+            - link "Surfen" [ref=e111] [cursor=pointer]:
+              - /url: /de/kurse
+          - listitem [ref=e112]:
+            - link "Küche" [ref=e113] [cursor=pointer]:
+              - /url: /de/kueche
+          - listitem [ref=e114]:
+            - link "Unterkunft" [ref=e115] [cursor=pointer]:
+              - /url: /de/unterkunft
+          - listitem [ref=e116]:
+            - link "Diego" [ref=e117] [cursor=pointer]:
+              - /url: /de/ueber-uns
+          - listitem [ref=e118]:
+            - link "Kontakt" [ref=e119] [cursor=pointer]:
+              - /url: /de/kontakt
+      - generic [ref=e120]:
+        - paragraph [ref=e121]: Kontakt
+        - list [ref=e122]:
+          - listitem [ref=e123]:
+            - link "+51 000 000 000" [ref=e124] [cursor=pointer]:
+              - /url: https://wa.me/51000000000
+          - listitem [ref=e125]:
+            - link "hola@surfandcook.pe" [ref=e126] [cursor=pointer]:
+              - /url: mailto:hola@surfandcook.pe
+          - listitem [ref=e127]:
+            - link "Lobitos, Talara, Piura, Peru" [ref=e128] [cursor=pointer]:
+              - /url: https://www.google.com/maps/search/?api=1&query=Lobitos%2C%20Piura%2C%20Peru
+    - paragraph [ref=e130]: Surf and Cook · Lobitos, Peru © 2026
+  - alert [ref=e131]
